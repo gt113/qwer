@@ -82,7 +82,7 @@ int main(void)
   /* USER CODE BEGIN SysInit */
 
   int x =1;
-
+  int x = 22;
   while (1)
   {
     /* USER CODE END WHILE */
